@@ -24,4 +24,4 @@ attr_accessor :id, :name, :type, :db, :hp
   end
 
 
-end	end
+end	
